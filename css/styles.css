@@ -29,7 +29,6 @@ ul {
 /* secciones */
 
 .seccion1 {
-    background-color: aqua;
     height: 643px;
     display: flex;
     align-items: center;
@@ -39,7 +38,6 @@ ul {
 
 .espacio  {
     width: 250px;
-    background-color: blue;
 }
 
 h1 {
@@ -90,7 +88,6 @@ h1 {
 
 .espacio2  {
     width: 300px;
-    /* background-color: blue; */
 }
 
 .parrafo2 {
